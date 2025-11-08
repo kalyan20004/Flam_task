@@ -42,3 +42,4 @@ Desmos link: https://www.desmos.com/calculator?x1(t)=t*cos(0.542144)-e^(0.050000
 - M hit the boundary (0.05). Consider expanding the search range if allowed to see whether the fit improves.
 - Increasing t-grid density (more samples) may reduce projection error.
 - Multi-start with more diverse seeds helps avoid local minima.
+<img width="950" height="703" alt="flam" src="https://github.com/user-attachments/assets/73123eee-440f-4f3c-8d01-34c270217276" />
